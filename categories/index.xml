@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rodrigo Jimenez G - Taller Producto 2021</title>
-    <link>rodrigojimenezg.github.io/categories/</link>
+    <link>https://rodrigojimenezg.github.io/categories/</link>
     <description>Recent content in Categories on Rodrigo Jimenez G - Taller Producto 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="rodrigojimenezg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://rodrigojimenezg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
