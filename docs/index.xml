@@ -8,93 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://rodrigojimenezg.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Encargo 0</title>
-      <link>https://rodrigojimenezg.github.io/docs/encargo-0/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/encargo-0/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 1</title>
-      <link>https://rodrigojimenezg.github.io/docs/encargo-1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/encargo-1/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 2</title>
-      <link>https://rodrigojimenezg.github.io/docs/encargo-2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/encargo-2/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Encargo Grupal</title>
-      <link>https://rodrigojimenezg.github.io/docs/encargo-grupal/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/encargo-grupal/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Entrevista</title>
-      <link>https://rodrigojimenezg.github.io/docs/entrevista/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/entrevista/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Encargo Fotogrametría</title>
-      <link>https://rodrigojimenezg.github.io/docs/encargo-fotogrametr%C3%ADa/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/encargo-fotogrametr%C3%ADa/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Encargo Moldes Fusion</title>
-      <link>https://rodrigojimenezg.github.io/docs/encargo-moldes-fusion/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/encargo-moldes-fusion/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Fotografía &#43; Origami</title>
-      <link>https://rodrigojimenezg.github.io/docs/fotograf%C3%ADa-&#43;-origami/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/fotograf%C3%ADa-&#43;-origami/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
       <title>Ejemplos Markdown</title>
       <link>https://rodrigojimenezg.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://rodrigojimenezg.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Encargo 10 de mayo</title>
-      <link>https://rodrigojimenezg.github.io/docs/encargo-10-de-mayo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/encargo-10-de-mayo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
     <item>
@@ -107,20 +26,11 @@
     </item>
     
     <item>
-      <title>Avance 27 de mayo</title>
-      <link>https://rodrigojimenezg.github.io/docs/avance-27-de-mayo/</link>
+      <title>Entregas Electrónica</title>
+      <link>https://rodrigojimenezg.github.io/docs/entregas-electr%C3%B3nica/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://rodrigojimenezg.github.io/docs/avance-27-de-mayo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
-      <title>Entrega Final Bits and bites</title>
-      <link>https://rodrigojimenezg.github.io/docs/entrega-final-bits-and-bites/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://rodrigojimenezg.github.io/docs/entrega-final-bits-and-bites/</guid>
+      <guid>https://rodrigojimenezg.github.io/docs/entregas-electr%C3%B3nica/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
